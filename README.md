@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my Social Media APP.
+- 🔭 I’m currently working on my Discord BOT.
 
 - 🌱 I’m currently learning **MERN STACK**
 
