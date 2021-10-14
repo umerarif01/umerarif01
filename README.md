@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my Discord BOT.
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **BLOCKCHAIN**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
