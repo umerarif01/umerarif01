@@ -25,7 +25,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://tailwindcss.com/_next/static/media/twitter-square.daf77586b35e90319725e742f6e069f9.jpg" width="45" height="45"/> </a>
+     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftailwindcss%2F&psig=AOvVaw39jBYbUpbXpYmJ0O0pzODR&ust=1640972715101000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDXi_KJjPUCFQAAAAAdAAAAABAD" width="45" height="45"/> </a>
     <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>  </a> 
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
