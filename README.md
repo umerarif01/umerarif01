@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my Discord BOT.
+- 🔭 I’m currently working on my Blockchain Project.
 
 - 🌱 I’m currently learning **BLOCKCHAIN**
 
