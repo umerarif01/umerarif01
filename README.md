@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my Blockchain Project.
+- 🔭 I’m currently working on my AI Project.
 
-- 🌱 I’m currently learning **BLOCKCHAIN**
+- 🌱 I’m currently learning **Machine Learning and Artifical Intelligence**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
